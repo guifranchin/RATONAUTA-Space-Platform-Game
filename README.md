@@ -1,5 +1,5 @@
 
-<img src="./ratonauta.png" alt="exemplo imagem">
+<img src="./ratonauta.jpg" alt="exemplo imagem">
 
 # RatoNauta
 
