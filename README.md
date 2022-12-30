@@ -5,6 +5,7 @@ Projeto com intuito de aprender programação e raciocínio lógico:
 . Criação de protótipos mínimos viáveis de jogos;
 . Desenvolvimento de jogos simples para o Arduino..
 
+
 Sobre:
 O projeto é um jogo de plataformas com tema espacial, no qual o personagem principal é um rato que deseja conquistar a Lua, 
 supostamente feita de queijo, para comê-la. O jogador deve ajudar o rato a saltar entre as plataformas e coletar recompensas 
